@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Kenan</h1>
 <p align="center">🧠 Fullstack Dev · 🧪 Test Automation · 🛠️ Always building weird stuff</p>
 <p align="center">
-  <img src="https://tenor.com/view/pepo-peepo-pepe-flag-bosnia-gif-13385793077507792278" width="300" />
+  <img src="https://media.tenor.com/ucPj4g28HZYAAAAi/pepo-peepo.gif" width="300" />
 </p>
 
 ---
