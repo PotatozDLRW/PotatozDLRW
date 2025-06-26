@@ -8,10 +8,10 @@
 
 ## 🔥 About Me
 
-- 🎓 Soon-to-be apprentice (starting October 2025)
-- 💻 Fullstack Dev — Front & Back, I got both hands dirty
-- 🤖 Android apps, Jenkins pipelines, Playwright tests — I do it all
-- 🧪 TA addict | I literally break things for quality
+- 🎓 Soon-to-be apprentice starting October 2025, developing applications for **PROSOL** (Grand Frais, Fresh, mon-marché.fr, Banco Fresco)
+- 💻 Fullstack Dev — from Frontend to Backend, I get my hands dirty on both
+- 📱 Android apps · 🌐 Web apps · 🧪 Playwright tests · ⚙️ Jenkins pipelines — I do it all
+- 🚀 Passionate about Mobile Test Automation and continuous quality
 - 🥖 French & proud: _"On maange des carte graphique au ptit dej"_
 
 ---
@@ -52,22 +52,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤪 `random-fun-app` | "Built this while eating cereal" | JS, HTML |
-| 🤖 `jenkins-pipe-tester` | Tests CI workflows with random builds | Jenkins, YAML |
-| 🧪 `ta-playwright-bot` | E2E script that breaks everything intentionally | Playwright, TS |
+| 🤪 `random-fun-app` | Built this while eating cereal | JS, HTML |
+| 🤖 `jenkins-pipe-tester` | CI test suite with randomized builds | Jenkins, YAML |
+| 🧪 `ta-playwright-bot` | E2E test bot that breaks everything on purpose | Playwright, TypeScript |
 
-> *I code for quality, but sometimes I just code for chaos.*
+> *Je mange des carte graphique au ptit déjeuner !*
 
----
-
-## 🎁 Bonus: My Dev Terminal
-
-```bash
-$ whoami
-kenan
-
-$ echo "Side projects keep me sane 🚀" >> ~/motivation.txt
-
-$ sudo apt-get install more-ram
-Reading package lists... Done
-E: Unable to locate package 'more-ram'
