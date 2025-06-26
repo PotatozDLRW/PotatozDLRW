@@ -1,8 +1,7 @@
 <h1 align="center">Yo 👋, I'm Kenan</h1>
 <p align="center">🧠 Fullstack Dev · 🧪 Test Automation · 🛠️ Always building weird stuff</p>
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="13385793077507792278" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepo-peepo-pepe-flag-bosnia-gif-13385793077507792278">Pepo Peepo Sticker</a>from <a href="https://tenor.com/search/pepo-stickers">Pepo Stickers</a></div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/13385793077507792278" width="300" />
 </p>
 
 ---
