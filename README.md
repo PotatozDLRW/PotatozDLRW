@@ -12,7 +12,7 @@
 - 💻 Fullstack Dev — from Frontend to Backend, I get my hands dirty on both
 - 📱 Android apps · 🌐 Web apps · 🧪 Playwright tests · ⚙️ Jenkins pipelines — I do it all
 - 🚀 Passionate about Mobile Test Automation and continuous quality
-- 🥖 French & proud: _"On maange des carte graphique au ptit dej"_
+- 🥖 French & proud: _"On mange des cartes graphiques au ptit dej"_
 
 ---
 
@@ -37,18 +37,12 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Squash](https://img.shields.io/badge/-Squash-0088CC?style=flat-square)
 
-> *Je mange des carte graphique au ptit déjeuner !*
+> *Je mange des cartes graphiques au petit déjeuner !*
 
 ---
 
-## 🎉 Outro — Powered by ☕ + Bugs
+## 😂 Fun Time
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-</p>
-
-<p align="center"><b>Fun fact:</b> My code compiles 60% of the time, every time.</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+scrolling+this+far+%F0%9F%91%8D;Go+build+cool+stuff+now+!+%F0%9F%9A%80" />
+  <img src="https://media.giphy.com/media/3o7TKSQ5DQKXOs7Q4A/giphy.gif" width="300" />
 </p>
