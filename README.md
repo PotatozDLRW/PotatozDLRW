@@ -10,7 +10,7 @@
 
 - 🎓 Soon-to-be apprentice starting October 2025, developing applications for **PROSOL** (Grand Frais, Fresh, mon-marché.fr, Banco Fresco)
 - 💻 Fullstack Dev — from Frontend to Backend, I get my hands dirty on both
-- 📱 Android apps | 🌐 Web apps | 🧪 Playwright tests | ⚙️ Jenkins pipelines — I do it all
+- 📱 Android apps | 🌐 Web apps | 🧪 Playwright tests | Maestro Dev tests | ⚙️ Jenkins pipelines — I do it all
 - 🚀 Passionate about Gaming and Dev
 
 ---
