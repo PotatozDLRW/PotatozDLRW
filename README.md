@@ -35,7 +35,7 @@
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35">
-  <img src="https://www.maestro.dev/logo.png" title="Maestro" alt="Maestro" width="35" height="35">
+  <img src="https://avatars.githubusercontent.com/u/65870663?v=4" title="Kenan" alt="Kenan" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="35" height="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="35" height="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="35" height="35">
