@@ -10,9 +10,8 @@
 
 - 🎓 Soon-to-be apprentice starting October 2025, developing applications for **PROSOL** (Grand Frais, Fresh, mon-marché.fr, Banco Fresco)
 - 💻 Fullstack Dev — from Frontend to Backend, I get my hands dirty on both
-- 📱 Android apps · 🌐 Web apps · 🧪 Playwright tests · ⚙️ Jenkins pipelines — I do it all
-- 🚀 Passionate about Mobile Test Automation and continuous quality
-- 🥖 French & proud: _"On mange des cartes graphiques au ptit dej"_
+- 📱 Android apps | 🌐 Web apps | 🧪 Playwright tests | ⚙️ Jenkins pipelines — I do it all
+- 🚀 Passionate about Gaming and Dev
 
 ---
 
@@ -20,29 +19,43 @@
 
 ### 💬 Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-000?style=flat-square&logo=yaml&logoColor=white)
+| Language | Badge |
+|----------|-------|
+| JavaScript | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Java | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) |
+| C | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| C++ | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) |
+| C# | ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| Kotlin | ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) |
+| PHP | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| YAML | ![YAML](https://img.shields.io/badge/-YAML-000?style=flat-square&logo=yaml&logoColor=white) |
 
 ### 🧰 Tools & Frameworks
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Squash](https://img.shields.io/badge/-Squash-0088CC?style=flat-square)
+| Tool/Framework | Badge |
+|----------------|-------|
+| React | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| Next.js | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js) |
+| Angular | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
+| Vue.js | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
+| Node.js | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| Playwright | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| Jenkins | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| Docker | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| Jira | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
+| Squash | ![Squash](https://img.shields.io/badge/-Squash-0088CC?style=flat-square) |
+| Git | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| GitHub | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| GitLab | ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) |
 
 > *Je mange des cartes graphiques au petit déjeuner !*
 
 ---
 
-## 😂 Fun Time
+## 🎮 Fun Fact
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSQ5DQKXOs7Q4A/giphy.gif" width="300" />
-</p>
+| Did you know? | |
+|---------------|-|
+| I once debugged a piece of code so efficiently that it felt like I was playing a game in "God Mode"! | ![God Mode](https://media.giphy.com/media/l0HU7zQXQHW4gDvE4/giphy.gif) |
